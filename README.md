@@ -1,6 +1,6 @@
 # Knex Seeding Warmup - Fork and clone this repo
 
-[http://knexjs.org/#Seeds-CLI]('http://knexjs.org/#Seeds-CLI')
+Reference: [http://knexjs.org/#Seeds-CLI]('http://knexjs.org/#Seeds-CLI')
 
 * Quick description of seeding:
 
