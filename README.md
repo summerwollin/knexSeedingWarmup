@@ -8,7 +8,8 @@ Reference: [http://knexjs.org/#Seeds-CLI]('http://knexjs.org/#Seeds-CLI')
 Seeding is needed when you create a database and you want to fill it up with data immediately.
 With knex you can generate seed files in a similar way to how you can generate migration files.
 
-Then within those generated seed files you can create insert statements which will be used to add data to populate your tables.
+Then within those generated seed files you can create insert statements which will be used to add
+data to populate your tables.
 ```
 
 ## Setup
